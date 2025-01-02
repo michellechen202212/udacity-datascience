@@ -51,6 +51,7 @@ The project follows the **CRISP-DM framework**:
    - Identified `HBA_NSA` and `Year` as the most influential features.
 2. **Modeling Results**:
    - Linear Regression performed best with a high \( R^2 \) score, effectively explaining variance in the target variable.
+   - The Random Forest model is the preferred choice for the Creative Predictive Scenario. Its conservative estimates closely mirror real-world dynamics, enabling decision-makers to plan strategically and mitigate the risk of overcommitting resources.
 3. **Visualizations**:
    - Actionable insights were derived from the correlation matrix and feature importance plots, alongside a comparison of actual vs. predicted values using linear regression and random forest models.
 

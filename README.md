@@ -24,7 +24,7 @@ Understanding the dynamics of business applications is vital for economists, pol
 
 ## Dataset
 **Business Formation Statistics Weekly Data**  
-- Source: [U.S. Census Bureau](https://www.census.gov/econ/bfs/index.html)
+- Source: [U.S. Census Bureau](https://www.census.gov/econ/bfs/data/weekly.html)
 - Key Variables: `BA_NSA`, `HBA_NSA`, `WBA_NSA`, `Year`, etc.
 
 ---

@@ -3,7 +3,7 @@ This project analyzes and predicts business growth using the [Business Formation
 
 ### **Blog Post**
 Read the complete story on Medium:  
-[Predicting Business Growth: Which Model Does It Best?](https://medium.com/@isabelladatascience/predicting-business-growth-which-model-does-it-best-c152f151d26f)
+[Unlocking Business Growth: Which Model is Best?](https://medium.com/@isabelladatascience/predicting-business-growth-which-model-does-it-best-c152f151d26f)
 
 ### **GitHub Repository**
 Find all project resources on GitHub:  

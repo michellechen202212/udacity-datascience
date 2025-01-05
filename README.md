@@ -7,7 +7,7 @@ Read the complete story on Medium:
 
 ### **GitHub Repository**
 Find all project resources on GitHub:  
-- [Jupyter Notebook](https://github.com/michellechen202212/udacity-datascience/blob/main/blogPost.ipynb)  
+- [Jupyter Notebook](https://github.com/michellechen202212/udacity-datascience/blob/main/blog_post.ipynb)  
 - [Dataset](https://github.com/michellechen202212/udacity-datascience/blob/main/bfs_us_apps_weekly_nsa.csv)
 
 ## **Motivation**
